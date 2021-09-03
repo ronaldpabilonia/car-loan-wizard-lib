@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-last-name',
+  selector: 'clw-lib-last-name',
   templateUrl: './last-name.component.html',
   styleUrls: ['./last-name.component.scss']
 })
